@@ -1,8 +1,12 @@
 ## Hi there 👋
-## These are my Repositories
-### Robotics
-### Machine Learning
+## My Repositories
+The following repositories are ordered depending on there corresponding topic.\
+Feel free to take a look maybe you will find something interesting 👀.
 
+### Robotics
+In this section you will find all repositories which focus mainly on robotics.
+### Machine Learning
+In this section you will find all repositories which focus mainly on machine learning / deep learning.
 
 
 <!--
