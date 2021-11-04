@@ -1,25 +1,21 @@
 ## Hi there 👋
-## My Repositories
+## Table of Content
+
+##### Table of Contents  
+- [Introduction](#Introduction)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
+## Emphasis 
+
+## Introduction
 The following repositories are ordered depending on there corresponding topic.\
 Feel free to take a look maybe you will find something interesting 👀.
 
 ### Robotics
-In this section you will find all repositories which focus mainly on robotics.
+> :information_source: In this section you will find all repositories which _focus mainly on robotics_.
 ### Machine Learning
-In this section you will find all repositories which focus mainly on machine learning / deep learning.
+> :information_source: In this section you will find all repositories which focus _mainly on machine learning / deep learning_.
 
-
-<!--
-**timovr-dev/timovr-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
