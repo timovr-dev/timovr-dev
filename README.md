@@ -17,7 +17,7 @@ Feel free to take a look maybe you will find something interesting 👀.
 
 | Repo ID | Repo Name | Description |
 | --- | --- | --- |
-| `R-1` | Autonomouse Surveillance Drone | some description |
+| `R-1` | Autonomouse Surveillance Drone | This repository incorporates the assembly process of a drone from scratch and uses Computer Vision in order to detect pedestrian from the sky. |
 | `R-2` | Jetbot Rover (with Jetbot Xavier NX) | some description |
 
 ### Machine Learning
