@@ -17,10 +17,14 @@ Feel free to take a look maybe you will find something interesting 👀.
 
 | Repo ID | Repo Name | Description |
 | --- | --- | --- |
-| `1` | Autonomouse Surveillance Drone | some description |
-| `2` | Jetbot Rover (with Jetbot Xavier NX) | some description |
+| `R-1` | Autonomouse Surveillance Drone | some description |
+| `R-2` | Jetbot Rover (with Jetbot Xavier NX) | some description |
 
 ### Machine Learning
 > In this section you will find all repositories which focus _mainly on machine learning / deep learning_.
 #### 1. Skin Cancer Detection (Computer Vision)
+
+| Repo ID | Repo Name | Description |
+| --- | --- | --- |
+| `ML-1` | Skin Cancer Detection (Computer Vision) | some description |
 
