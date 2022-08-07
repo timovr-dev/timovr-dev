@@ -1,30 +1,19 @@
 ## Table of Content  
 - [Introduction](#Introduction)  
-- [Repository Topics](#Repository-Topics)
-  - [Robotics](#Robotics)
-  - [Machine Learning](#Machine-Learning)
+- [My Repositories](#Repository-Topics)
 - License      
 <a name="headers"/>
 
 ## Introduction
-The following repositories are ordered depending on there corresponding topic.\
-Feel free to take a look maybe you will find something interesting 👀.
+Feel free to take a look at my repositories 👀.
 
-## Repository Topics
-
-### Robotics
-> In this section you will find all repositories which _focus mainly on robotics_.
+### My Repositories
+> In this section you will find my repositories that I or me and some friends did in the past.
 
 | Repo ID | Repo Name | Description |
 | --- | --- | --- |
-| `R-1` | Autonomouse Surveillance Drone | This repository incorporates the assembly process of a drone from scratch and uses Computer Vision in order to detect pedestrian from the sky. |
-| `R-2` | Jetbot Rover (with Jetbot Xavier NX) | some description |
-
-### Machine Learning
-> In this section you will find all repositories which focus _mainly on machine learning / deep learning_.
-#### 1. Skin Cancer Detection (Computer Vision)
-
-| Repo ID | Repo Name | Description |
-| --- | --- | --- |
-| `ML-1` | Skin Cancer Detection (Computer Vision) | some description |
-
+| `ML-1` | Simulation Image Dataset Generation | Generating a dataset of industrial objects with Blenderproc |
+| `ML-2` | Yolo v4 2D Object Detection with Simulated Images Dataset | Dataset from `ML-1` |
+| `ML-3` | Autonomouse Surveillance Drone | This repository incorporates the assembly process of a drone from scratch and uses computer vision to detect pedestrians from the sky.|
+| `ML-4` | In Depth Analyse of Time Series Data (Temperature, Humidity and Fine Dust) | Collaborative project with a friend from Germany |
+| `ML-5` | Time Series Prediction Stock Market | Collaborative project with a friend from the USA |
